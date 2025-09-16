@@ -532,7 +532,7 @@ const copy = async (text) => {
           loop
           playsInline
         >
-          <source src="/0915.MOV" type="video/mp4" />
+          <source src="/0915.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-black/10" />
       </section>
