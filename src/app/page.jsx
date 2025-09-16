@@ -499,9 +499,9 @@ const copy = async (text) => {
     <div className="rounded-lg bg-neutral-900 p-4 text-white shadow">
       <p className="text-sm">
         <span className="opacity-80">CBU:</span>{" "}
-        <span className="font-mono">000000000000000000000</span>
+        <span className="font-mono">1430001713025578390018</span>
         <button
-          onClick={() => copy("000000000000000000000")}
+          onClick={() => copy("1430001713025578390018")}
           className="ml-2 rounded-md bg-white/10 px-2 py-0.5 text-xs"
         >
           Copiar
@@ -509,9 +509,9 @@ const copy = async (text) => {
       </p>
       <p className="mt-1 text-sm">
         <span className="opacity-80">ALIAS:</span>{" "}
-        <span className="font-mono">ALIAS</span>
+        <span className="font-mono">jacquiBrai</span>
         <button
-          onClick={() => copy("ALIAS")}
+          onClick={() => copy("jacquiBrai")}
           className="ml-2 rounded-md bg-white/10 px-2 py-0.5 text-xs"
         >
           Copiar
