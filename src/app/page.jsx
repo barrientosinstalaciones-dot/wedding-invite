@@ -467,7 +467,7 @@ const copy = async (text) => {
             <div className="flex items-center gap-2 text-neutral-700">
               <Shirt size={18} /> Dress code 
             </div>
-            <p className="mt-2 text-lg">Sport Elegant</p>
+            <p className="mt-2 text-lg">Elegante Sport</p>
             <p className="text-sm text-neutral-500">Vestimenta elegante, sin perder comodidad.</p>
           </div>
           <div className="rounded-2xl bg-white p-6 shadow-sm">
