@@ -3,6 +3,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { Calendar, Clock, MapPin, Send, Heart, Image as ImageIcon, Gift, Play, Pause, Shirt } from "lucide-react";
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 /**
  * Next.js App Router – Página única
